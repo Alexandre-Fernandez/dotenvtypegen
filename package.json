@@ -1,6 +1,6 @@
 {
 	"name": "dotenvtypegen",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Generate types for your .env files.",
 	"author": "alexandre-fernandez",
 	"license": "MIT",
