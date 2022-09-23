@@ -1,6 +1,6 @@
 {
 	"name": "dotenvtypegen",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Type your .env files.",
 	"author": "alexandre-fernandez",
 	"license": "MIT",
@@ -20,6 +20,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"dependencies": {
+		"@types/node": "^18.7.18",
 		"dotenv": "^16.0.2"
 	},
 	"devDependencies": {
