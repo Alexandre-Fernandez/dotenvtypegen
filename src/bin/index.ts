@@ -47,6 +47,7 @@ for (const arg of process.argv.slice(2)) {
 			break
 		case "header":
 			args.header = arg
+			break
 		case "interface":
 			args.interface = arg
 			break
