@@ -1,5 +1,5 @@
 {
-	"name": "typedotenv",
+	"name": "dotenvtypegen",
 	"version": "0.0.1",
 	"description": "Type your .env files.",
 	"author": "alexandre-fernandez",
