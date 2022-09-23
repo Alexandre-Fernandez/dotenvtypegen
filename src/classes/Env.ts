@@ -37,7 +37,7 @@ class Env {
 			)
 		}, `${header}declare global {\n\tnamespace ${this.options.namespace} {\n\t\tinterface ${this.options.interface} {\n`)
 
-		return out + `\t\t}\n\t}\n}`
+		return out + `\t\t}\n\t}\n}\n`
 	}
 
 	/**
